@@ -8,3 +8,9 @@ chapter06. Be sure to
 rename it Profile.md!
 Breed: **Beagle**
 Location: **Philadelphia**
+
+Skills: Following scent trails, digging holes, treeing
+Profile.md file.
+ squirrels, looking after small children, guarding the pack,
+We've provided this in a
+ stealing chimkin when the little humans isn't looking
